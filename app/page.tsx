@@ -1,3 +1,5 @@
+import { Modal} from '../components/Modal'
+
 export default function Home() {
   return (
     
@@ -12,6 +14,7 @@ export default function Home() {
           className="mt-6 animate-fade-up text-center text-gray-500 [text-wrap:balance] md:text-xl">
           Greetings, fellow speculators! A place to learn about modern tools and techniques so you can develop your own tools and scripts to sharpen your edge and enhance your trading results.
         </p>
+        <div className="flex justify-center"><Modal/></div>
     </div>
     
   );
