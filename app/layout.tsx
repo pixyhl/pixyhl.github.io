@@ -8,8 +8,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html>
       <head>
-        <title> Free content, tips, tutorials, and updates!</title>
-        <link rel="icon" type="image/x-icon" href="../public/images.pixyhashllc.png" />
+      <link rel="icon" type="image/x-icon" href="/images/favicon.png"></link>
+      <title> Free content, tips, tutorials, and updates!</title>
       </head>
       <body>
         <Header />
