@@ -8,7 +8,7 @@ export default function Home() {
           className="bg-gradient-to-br from-black to-stone-500 bg-clip-text text-center font-display font-bold tracking-[-0.02em] text-transparent drop-shadow-sm [text-wrap:balance] md:text-6xl md:leading-[5rem]"
           
         >
-          Study. Practice. Grow.
+          ReGrow Space : Study. Practice. Grow.
         </h1>
         <p
           className="mt-6 animate-fade-up text-center text-gray-500 [text-wrap:balance] md:text-xl">
